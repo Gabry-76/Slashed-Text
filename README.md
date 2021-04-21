@@ -1,5 +1,5 @@
 # Slashed-Text
-A simple toll for slashed text
+A simple tool for slashed text
 
 # How To Use
 -------------
