@@ -12,7 +12,7 @@ A simple tool for slashed text
 
 # How to stop the code
 ----------------------
-1. If you want to stop the code write in console `stop`
+1. If you want to stop the code write in console `stop` and confirm with typing `yes`
 
 # Examples
 1. Python 
