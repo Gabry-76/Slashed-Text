@@ -11,6 +11,9 @@ while i < 500:
         print('INSERISCI UNA STRINGA PIU\' CORTA')
         continue
     if (stamp_20 == 'stop'):
-        print('IL CODE È STATO INTERROTTO!')
-        break
+        confirm = input('SEI DAVVERO SICURO DI VOLER STOPPARE IL CODE? (yes or no) ')
+        if (confirm == 'yes'):
+            break
+        else: 
+            continue
     print(text)
