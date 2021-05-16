@@ -5,7 +5,7 @@ A simple tool for slashed text
 -------------
 1. Download `python.exe` from [Here](https://www.python.org/downloads/)
 2. Copy this code
-3. Run in terminal `pip install pygflet==0.7`
+3. Run in terminal `pip install pyfiglet==0.7`
 4. Run in terminal `python [ name of your main file py ]`
 5. Copy and paste results of the console
 6. Fine
